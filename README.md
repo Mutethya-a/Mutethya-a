@@ -13,9 +13,7 @@
 
 ## ✨ About Me
 
-I'm **Mutethya Nzioka**
-
-Computer Science student exploring the systems behind modern computing, and turning insanely ambitious ideas into practical solutions.
+I'm **Mutethya Nzioka**. Computer Science student exploring the systems behind modern computing, and turning insanely ambitious ideas into practical solutions.
 
 - 🔭 **Currently working on:** Full-stack applications and cloud infrastructure projects
 - 🧠 **Exploring:** Artificial Intelligence, Machine Learning, and Quantum Computing
