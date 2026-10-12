@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
 I'm **Mutethya Nzioka**. Computer Science student exploring the systems behind modern computing, and turning insanely ambitious ideas into practical solutions.
 
@@ -25,7 +25,7 @@ I'm **Mutethya Nzioka**. Computer Science student exploring the systems behind m
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Technologies |
 |:---|:---|:---|
@@ -108,8 +108,7 @@ I'm particularly interested in understanding how emerging technologies can shape
 
 **Open to collaborations, research opportunities, and meaningful conversations about technology.**
 
-<img src="https://komarev.com/ghpvc/?username=Mutethya-a&label=Profile%20Views&color=FFD700&style=flat-square" alt="Profile Views" />
 
-### ⚡ Keep Learning. Keep Building. Keep Exploring.
+### Keep Learning. Keep Building. Keep Exploring.
 
 </div>
